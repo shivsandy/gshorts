@@ -1,0 +1,14 @@
+{
+  "schema_version": 1,
+  "compressed_topic_parts": [
+    "topic_bank/part-00.b64",
+    "topic_bank/part-01.b64",
+    "topic_bank/part-02.b64",
+    "topic_bank/part-03.b64",
+    "topic_bank/part-04.b64",
+    "topic_bank/part-05.b64",
+    "topic_bank/part-06.b64",
+    "topic_bank/part-07.b64"
+  ],
+  "note": "Compressed source-reviewed topic data, split into base64 text chunks for transport and decoded locally at runtime."
+}

@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "content": {"default_niche":"all","default_language":"en","default_timezone":"Asia/Kolkata","daily_topic_attempt_limit":5},
+  "video": {"width":1080,"height":1920,"fps":30,"min_duration_seconds":50,"max_duration_seconds":60,"max_file_size_mb":100,"max_upload_retries":3,"max_render_seconds":300},
+  "render": {"tts_rate":145,"tts_voice":"en-us","crf":21,"preset":"veryfast","scene_pause_seconds":0.12},
+  "publishing": {"default_privacy":"unlisted","enabled_by_default":false,"public_requires_explicit_allow":true}
+}
